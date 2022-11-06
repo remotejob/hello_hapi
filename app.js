@@ -18,7 +18,6 @@ Server.route({
     }
 });
 
-//ok tes
 if (!module.parent) {
 
     Server.start((err) => {
